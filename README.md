@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, friends 👋
 
-<!--
-**QmDev/Qmdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Python and PHP programmer
+I am a Cracker and a programmer with low to moderate experience in Python and PHP and I am always looking to learn more and improve my skills.
 
-Here are some ideas to get you started:
+### 📫 Telegram Channel
+- **Please join**: [@irzux](https://t.me/irzux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+-------------------
+- 🐍 **python**
+- 🐳 **PHP**
+- 🔧 **HTML**
+- 🖥️ **WordPress**
+-------------------
+
+### 🌱Learning
+- 🔐 **Web security**
+
+### 📊 GitHub Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qmdev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### 📫 **[Please take a look](https://github.com/Qmdev)**
+
+[![Telegram](https://img.shields.io/badge/Telegram-@irzux-blue?style=flat&logo=telegram)](https://t.me/irzux)
