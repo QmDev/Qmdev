@@ -8,8 +8,8 @@ I am a Cracker and a programmer with low to moderate experience in Python and PH
 
 [![Telegram Channel ](https://img.shields.io/badge/Telegram-@irzux-red?style=flat&logo=telegram)](https://t.me/irzux)
 
-### 🔧 Skills
 -------------------
+### 🔧 Skills
 - 🐍 **python**
 - 🐳 **PHP**
 - 🔧 **HTML**
