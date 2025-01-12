@@ -19,6 +19,6 @@ I am a Cracker and a programmer with low to moderate experience in Python and PH
 ### 📊 GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qmdev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### 📫 **[Please take a look](https://github.com/Qmdev)**
+### 📫 **[💩💩](https://github.com/Qmdev)**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@irzux-blue?style=flat&logo=telegram)](https://t.me/irzux)
