@@ -16,9 +16,6 @@ I am a Cracker and a programmer with low to moderate experience in Python and PH
 - 🖥️ **WordPress**
 -------------------
 
-### 🌱Learning
-- 🔐 **Web security**
-
 ### 📊 GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qmdev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
