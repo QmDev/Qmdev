@@ -1,6 +1,6 @@
 # Hello, friends 👋
 
-### 👨‍💻 Python and PHP programmer
+### 👨‍💻
 I am a Cracker and a programmer with low to moderate experience in Python and PHP and I am always looking to learn more and improve my skills.
 
 ### 📫 Telegram Channel
